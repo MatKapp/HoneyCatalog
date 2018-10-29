@@ -6,5 +6,5 @@ using System.Threading.Tasks;
 
 namespace Kapiszewski.HoneyCatalog.Core
 {
-    public enum Honey { mead, nectar}
+    public enum Honey { Mead, Nectar}
 }
